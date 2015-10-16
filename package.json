@@ -1,11 +1,8 @@
 {
-  "name": "angrycats",
+  "name": "orchestra-boilerplate",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "app/main.js",
   "author": "Joe Fitter <hello@joefitter.com> (http://joefitter.com/)",
   "license": "ISC",
   "dependencies": {
